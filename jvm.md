@@ -14,6 +14,6 @@
 
 ```
 mermaid
-graph LR
-   A --> B
+graph LR;
+   A --> B;
 ```
